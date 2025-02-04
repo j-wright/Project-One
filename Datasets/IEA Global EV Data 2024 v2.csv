@@ -1,4 +1,4 @@
-region,category,parameter,mode,powertrain,year,unit,quantity
+region,category,parameter,mode,powertrain,Year,unit,quantity
 Australia,Historical,EV sales,Cars,BEV,2011,Vehicles,49
 Australia,Historical,EV sales,Cars,BEV,2012,Vehicles,170
 Australia,Historical,EV sales,Cars,PHEV,2012,Vehicles,80
@@ -2500,3 +2500,17 @@ World,Historical,EV sales,Vans,PHEV,2023,Vehicles,6600
 World,Historical,EV sales,Vans,FCEV,2023,Vehicles,2000
 World,Historical,EV sales,Vans,BEV,2023,Vehicles,460000
 World,Historical,EV sales,Buses,PHEV,2023,Vehicles,1400
+ROTW,Historical,EV sales,ALL,ALL,2010,Vehicles,3083
+ROTW,Historical,EV sales,ALL,ALL,2011,Vehicles,15914
+ROTW,Historical,EV sales,ALL,ALL,2012,Vehicles,31205.5
+ROTW,Historical,EV sales,ALL,ALL,2013,Vehicles,32260.3
+ROTW,Historical,EV sales,ALL,ALL,2014,Vehicles,45193
+ROTW,Historical,EV sales,ALL,ALL,2015,Vehicles,40431
+ROTW,Historical,EV sales,ALL,ALL,2016,Vehicles,50018
+ROTW,Historical,EV sales,ALL,ALL,2017,Vehicles,109153
+ROTW,Historical,EV sales,ALL,ALL,2018,Vehicles,214792
+ROTW,Historical,EV sales,ALL,ALL,2019,Vehicles,124582
+ROTW,Historical,EV sales,ALL,ALL,2020,Vehicles,177152
+ROTW,Historical,EV sales,ALL,ALL,2021,Vehicles,477055
+ROTW,Historical,EV sales,ALL,ALL,2022,Vehicles,682007
+ROTW,Historical,EV sales,ALL,ALL,2023,Vehicles,1103265
