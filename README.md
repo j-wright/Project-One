@@ -38,6 +38,8 @@ The United States shows growth in EV sales but at a slower pace, indicating pote
 The Rest of the World category indicates minimal EV presence, pointing to possible challenges in EV adoption or data availability.
 These conclusions highlight the varying levels of EV adoption across different regions, with China leading the way, followed by Europe, the United States, and the Rest of the World. The overall trend suggests a global shift towards EVs, but the pace and extent of adoption vary significantly.
 
-
+How EVs Impact Emissions
+This analysis focuses on CO2 Emissions by Country and how they relate to EV sales growth and incentives granted over the past decade. China seems to lead in EV sales against US and Europe almost every year since 2016. However, overall, their emissions only seem to be rising. The US and Europe have increasing sales, but their emissions have not dropped as sharply as the EV sales have gone up. You would think that EV adoption should reduce CO2 emissions, but they are greatly influenced by other factors (electricity grid sources, total vehicles on the road, and other industrial emissions).
+When you look at the average of emissions by country over the past decade, China has the lowest average, even though they lead in sales. China had one drop in emissions between 2021 and 2022, which was when they had the most EV incentives in place. Europe also saw a decline in emissions between 2020-2023, which is when they had the most incentives in place. The US has the least amount of incentive policies by a significant amount, and we also have the highest average number of emissions by a significant amount. This shows that government policies can play a crucial role in how EVs impact total emissions. 
 
 
