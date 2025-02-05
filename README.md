@@ -42,4 +42,18 @@ How EVs Impact Emissions
 This analysis focuses on CO2 Emissions by Country and how they relate to EV sales growth and incentives granted over the past decade. China seems to lead in EV sales against US and Europe almost every year since 2016. However, overall, their emissions only seem to be rising. The US and Europe have increasing sales, but their emissions have not dropped as sharply as the EV sales have gone up. You would think that EV adoption should reduce CO2 emissions, but they are greatly influenced by other factors (electricity grid sources, total vehicles on the road, and other industrial emissions).
 When you look at the average of emissions by country over the past decade, China has the lowest average, even though they lead in sales. China had one drop in emissions between 2021 and 2022, which was when they had the most EV incentives in place. Europe also saw a decline in emissions between 2020-2023, which is when they had the most incentives in place. The US has the least amount of incentive policies by a significant amount, and we also have the highest average number of emissions by a significant amount. This shows that government policies can play a crucial role in how EVs impact total emissions. 
 
+EV Polices vs. EV Sales - Jenn
+
+Hypothesis: As more EV-friendly policies are announced, the number of EVs sold will increase.
+Null Hypothesis: EV-friendly policies have no impact on the number of EVs sold.
+
+Data sources: 
+https://www.iea.org/data-and-statistics/data-tools/global-ev-policy-explorer (PDF)
+https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer (CSV)
+
+Data preparation: Using similar methods as Justin for the EV Sales dataset above, I filtered and grouped the data to look at EV sales quantities for the following regions: USA, Europe, China, Rest of the World. Using Python, I charted each region's sales quantities over time, after removing projected data (anything related to 2025 and beyond). For the Policy Explorer dataset, I downloaded the PDF and converted it to CSV. Through a combination of Excel and Python, I calculated a record count for each country/region described above and created a bar chart showing the number of policies announced by region by year. Finally, I ran a pearsonr analysis to determine the correlation coefficient and p-value between the quantity of policies and the quantity of EV sales. 
+
+Result: There is an overall positive correlation coefficient = 0.61 and a p-value =  5.88e-7 or 0.000000588. This positive r and low p-value indicate the two variables are positively correlated and we cannot reject the null hypothesis. It is not an especially strong correlation, however (only .6 compared to a value of 1, which would indicate perfect correlation). This is evidenced by the fact that new policies declined globally between 2022 and 2023, yet quantity of sales continued to go up. 
+
+
 
