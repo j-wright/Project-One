@@ -10,7 +10,7 @@ To start this analysis, I gathered data from iea.org, International Energy Agenc
 
 
 EV GLOBAL SALES
-
+DATA source : https://ourworldindata.org/grapher/car-sales?v=1&csvType=full&useColumnShortNames=false
 From the graph "Yearly Vehicle Sales by Country and Type (2000-2023)," we can derive several conclusions regarding EV (Electric Vehicle) sales in the specified regions:
 
 United States:
