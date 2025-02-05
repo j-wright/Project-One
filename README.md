@@ -56,4 +56,15 @@ Data preparation: Using similar methods as Justin for the EV Sales dataset above
 Result: There is an overall positive correlation coefficient = 0.61 and a p-value =  5.88e-7 or 0.000000588. This positive r and low p-value indicate the two variables are positively correlated and we cannot reject the null hypothesis. It is not an especially strong correlation, however (only .6 compared to a value of 1, which would indicate perfect correlation). This is evidenced by the fact that new policies declined globally between 2022 and 2023, yet quantity of sales continued to go up. 
 
 
+Economics of Charging stations in the US
+
+In the US there are about 64,187 electric vehicle charging stations. The top 5 states with the most charging stations:
+
+1.California: 14,898 charging stations 2. New York: 3,489 charging stations 3.Texas: 2,637 charging stations 4.Florida: 2,857 charging stations 5.Massachusetts: 2,601 charging stations
+
+Charging stations are categorized into 3 different Levels depending in how fast it takes to charge. Level 1 one is the slowest and mainly used in residential applications. It can take anywhere from 40-50+ hours for it to charge to 80% from empty. Level 2 can take around 4-10 hours to charge to 80% from empty. They can typically be found in residental,comercial/work place, and public. Level 3 is the fastest in charging. They can take anywhere 20 mins up to 1 hour. They can typically be found in heavy traffic areas such as highways and interstate.
+
+The cost of building a charging station varies depending on location,regulation,incentives and the level. Using national averages Level 1 can range from about $200-$1000. Level 2 can range from $2300-$7000. Level 3 can range from $30k-100k. Level 1 station makes up less than 1% of EV stations. Level 2 stations make up around 80% of EV station. Level 3 makes up about 20% of all EV Charging stations.
+
+
 
